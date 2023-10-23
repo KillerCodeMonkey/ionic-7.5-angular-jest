@@ -1,0 +1,7 @@
+{
+  "name": "angular-ionic-jest",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
